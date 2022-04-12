@@ -9,4 +9,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwang0816&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwang0816&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwang0816&theme=radical&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
