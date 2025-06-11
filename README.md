@@ -5,9 +5,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 <br/>
 🧠 Building tools that strengthen how we think.
+<br/>
 💻 Software engineer | AI + workflow automation | Freelance tech strategist
+<br/>
 ✍️ Writing on AI, humanity, and digital self-reflection
+<br/>
 🛠️ Currently prototyping Mental Gym – a daily thought experiment journal powered by AI
+<br/>
 🌍 Taiwanese American | Remote-first | Code with care
 <br/>
 
