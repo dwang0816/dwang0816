@@ -4,7 +4,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 <br/>
--Full Stack Engineer at [ASR Analytics](https://www.asranalytics.com/)
+🧠 Building tools that strengthen how we think.
+💻 Software engineer | AI + workflow automation | Freelance tech strategist
+✍️ Writing on AI, humanity, and digital self-reflection
+🛠️ Currently prototyping Mental Gym – a daily thought experiment journal powered by AI
+🌍 Taiwanese American | Remote-first | Code with care
 <br/>
 
 
